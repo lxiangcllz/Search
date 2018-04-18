@@ -1,3 +1,5 @@
+//二分查找
+
 #include <iostream>
 
 using namespace std;
